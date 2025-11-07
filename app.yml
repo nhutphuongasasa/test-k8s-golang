@@ -5,7 +5,7 @@ metadata:
   name: helloworld-deployment 
   namespace: default
 spec:
-  replicas: 5 # so luong podnkn
+  replicas: 5 # so luong podnkn]\\
   selector:
     matchLabels:
       app: helloworld
